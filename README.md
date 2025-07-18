@@ -38,7 +38,7 @@ Me considero curioso, analítico e em constante evolução — sempre buscando a
 ### 📍 Monitor de Tiroteios RJ
 > Plataforma web com dados de tiroteios no RJ. Utiliza Python/Flask no backend e HTML/JS no frontend para exibição de informações em tempo real.
 
-🔗 [Ver projeto](https://github.com/vitor170605/tiroteios-rj)  
+🔗 [Ver projeto](https://github.com/vitor170605/big-data)  
 📌 `Flask`, `JavaScript`, `HTML`, `API externa`, `Visualização de dados`
 
 ---
@@ -46,7 +46,7 @@ Me considero curioso, analítico e em constante evolução — sempre buscando a
 ### 🐾 Sistema PetShop Java
 > Aplicação em Java para gerenciamento de pets e clientes via terminal. Persistência com SQLite e POO estruturada.
 
-🔗 [Ver projeto](https://github.com/vitor170605/gerenciamento-petshop-java)  
+🔗 [Ver projeto](https://github.com/vitor170605/projeto-java)  
 📌 `Java`, `POO`, `SQLite`, `Interação com usuário`
 
 ---
